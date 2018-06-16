@@ -28,11 +28,13 @@ NOTE: The program is designed to send and recieve one message at a time, with li
 For Better Understanding attaching Screenshots with a client connected to server.
 More terminals can be created and clients can be connected similarly as done.
 
-![Setting-up-connection]()
+![Setting-up-connection](https://github.com/avinashav/chatbox-using-sockets-cpp/blob/master/screens/establish.png)
 
-![communication]()
+![communication](https://github.com/avinashav/chatbox-using-sockets-cpp/blob/master/screens/communication.png)
 
-![Terminating-connection]()
+![Terminating-connection](https://github.com/avinashav/chatbox-using-sockets-cpp/blob/master/screens/session.png)
+
+After each session of communication, total bytes sent, bytes recieved and total session time can be seen after exit.
 
 Thanks,
 Avinash Kumar
